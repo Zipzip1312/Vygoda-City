@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Vygoda-City/static/css/main.0576b023.chunk.css",
-    "main.js": "/Vygoda-City/static/js/main.1acbf6e3.chunk.js",
-    "main.js.map": "/Vygoda-City/static/js/main.1acbf6e3.chunk.js.map",
+    "main.js": "/Vygoda-City/static/js/main.6b046588.chunk.js",
+    "main.js.map": "/Vygoda-City/static/js/main.6b046588.chunk.js.map",
     "runtime-main.js": "/Vygoda-City/static/js/runtime-main.ed0b8e9b.js",
     "runtime-main.js.map": "/Vygoda-City/static/js/runtime-main.ed0b8e9b.js.map",
     "static/js/2.eb725d71.chunk.js": "/Vygoda-City/static/js/2.eb725d71.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ed0b8e9b.js",
     "static/js/2.eb725d71.chunk.js",
     "static/css/main.0576b023.chunk.css",
-    "static/js/main.1acbf6e3.chunk.js"
+    "static/js/main.6b046588.chunk.js"
   ]
 }
