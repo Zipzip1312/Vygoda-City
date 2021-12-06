@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Vygoda-City/static/css/main.28a412b6.chunk.css",
-    "main.js": "/Vygoda-City/static/js/main.ba904247.chunk.js",
-    "main.js.map": "/Vygoda-City/static/js/main.ba904247.chunk.js.map",
+    "main.css": "/Vygoda-City/static/css/main.2d2dd194.chunk.css",
+    "main.js": "/Vygoda-City/static/js/main.3a8e5c36.chunk.js",
+    "main.js.map": "/Vygoda-City/static/js/main.3a8e5c36.chunk.js.map",
     "runtime-main.js": "/Vygoda-City/static/js/runtime-main.ed0b8e9b.js",
     "runtime-main.js.map": "/Vygoda-City/static/js/runtime-main.ed0b8e9b.js.map",
     "static/js/2.556f1cdd.chunk.js": "/Vygoda-City/static/js/2.556f1cdd.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.1a9f8e5a.chunk.js": "/Vygoda-City/static/js/3.1a9f8e5a.chunk.js",
     "static/js/3.1a9f8e5a.chunk.js.map": "/Vygoda-City/static/js/3.1a9f8e5a.chunk.js.map",
     "index.html": "/Vygoda-City/index.html",
-    "static/css/main.28a412b6.chunk.css.map": "/Vygoda-City/static/css/main.28a412b6.chunk.css.map",
+    "static/css/main.2d2dd194.chunk.css.map": "/Vygoda-City/static/css/main.2d2dd194.chunk.css.map",
     "static/js/2.556f1cdd.chunk.js.LICENSE.txt": "/Vygoda-City/static/js/2.556f1cdd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ed0b8e9b.js",
     "static/js/2.556f1cdd.chunk.js",
-    "static/css/main.28a412b6.chunk.css",
-    "static/js/main.ba904247.chunk.js"
+    "static/css/main.2d2dd194.chunk.css",
+    "static/js/main.3a8e5c36.chunk.js"
   ]
 }
